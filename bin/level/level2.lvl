@@ -1,0 +1,25 @@
+#Block is defined via X
+#Ball is defined via B
+#Player is defined via P
+#freie stelle via 0
+#größe der Blöcke etc wird variabel berechnet
+X0X0X0X
+0X0X0X0
+X0X0X0X
+0X0X0X0
+X0X0X0X
+0X0X0X0
+X0X0X0X
+000B000
+X0X0X0X
+0000000
+000P000
+0000000
+0000000
+music=standart
+framesizex=800
+framesizey=400
+playersizex=200
+playersizey=50
+ballsizex=10
+ballsizey=10
